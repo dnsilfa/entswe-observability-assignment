@@ -1,0 +1,22 @@
+{
+  "name": "entswe-observability-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnsilfa/entswe-observability-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnsilfa/entswe-observability-assignment/issues"
+  },
+  "homepage": "https://github.com/dnsilfa/entswe-observability-assignment#readme",
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.12.0"
+  }
+}
